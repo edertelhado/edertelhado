@@ -57,6 +57,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/etelhado/)](https://www.linkedin.com/in/etelhado/)
+[![Linkedin](https://img.shields.io/badge/-etelhado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/etelhado/)](https://www.linkedin.com/in/etelhado/)
 [![Gmail Badge](https://img.shields.io/badge/-eder.telhado@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eder.telhado@outlook.com)](mailto:edertelhado@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/edertelhado?label=follow&style=social)]((https://github.com/edertelhado/))
