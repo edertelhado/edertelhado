@@ -1,67 +1,83 @@
 # Eder Telhado
 
-Desenvolvedor de software com foco em back-end, explorando novas tecnologias e construindo soluções de software.
+Desenvolvedor de software com mais de 10 anos de experiência, com foco em back-end, sistemas corporativos e infraestrutura.
 
-- 💼 Atualmente trabalhando com **.NET CORE**
-- 🌱 Aprendendo mais sobre **Vue.js**
-- 🐧 Usuário de **Linux**, containers com **Podman** e apaixonado por boas práticas de código
+Trabalho principalmente com Java e .NET, mas uso a ferramenta adequada conforme o problema. Tenho experiência com bancos relacionais, APIs, aplicações desktop, containers e ambientes Linux.
+
+Minha preocupação principal é simples: software precisa ser compreensível, testável, manutenível e continuar funcionando em produção.
+
+> Menos arquitetura pela arquitetura. Mais solução para o problema.
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## Stack
 
-### Linguagens & Frameworks
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logoColor=%23ffff&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZjZmNmY2IiBkPSJNNDcuNjE3IDk4LjEyYy0xOS4xOTIgNS4zNjIgMTEuNjc3IDE2LjQzOSAzNi4xMTUgNS45NjktNC4wMDMtMS41NTYtNi44NzQtMy4zNTEtNi44NzQtMy4zNTEtMTAuODk3IDIuMDYtMTUuOTUyIDIuMjIyLTI1Ljg0NCAxLjA5Mi04LjE2NC0uOTM1LTMuMzk3LTMuNzEtMy4zOTctMy43MXptMzMuMTg5LTEwLjQ2Yy0xNC40NDQgMi43NzktMjIuNzg3IDIuNjktMzMuMzU0IDEuNi04LjE3MS0uODQ1LTIuODIyLTQuODA1LTIuODIyLTQuODA1LTIxLjEzNyA3LjAxNiAxMS43NjcgMTQuOTc3IDQxLjMwOSA2LjMzNi0zLjE0LTEuMTA2LTUuMTMzLTMuMTMxLTUuMTMzLTMuMTMxem0xMS4zMTktNjAuNTc1Yy4wMDEgMC00Mi43MzEgMTAuNjY5LTIyLjMyMyAzNC4xODcgNi4wMjQgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTMgMTUuNjM0LTI5LjU4em05Ljk5OCA4MS4xNDRzMy41MjkgMi45MS0zLjg4OCA1LjE1OWMtMTQuMTAyIDQuMjcyLTU4LjcwNiA1LjU2LTcxLjA5NS4xNzEtNC40NS0xLjkzOCAzLjg5OS00LjYyNSA2LjUyNi01LjE5MiAyLjczOS0uNTkzIDQuMzAzLS40ODUgNC4zMDMtLjQ4NS00Ljk1Mi0zLjQ4Ny0zMi4wMTMgNi44NS0xMy43NDIgOS44MTUgNDkuODIxIDguMDc2IDkwLjgxNy0zLjYzNyA3Ny44OTYtOS40Njh6TTg1IDc3Ljg5NmMyLjM5NS0xLjYzNCA1LjcwMy0zLjA1MyA1LjcwMy0zLjA1M3MtOS40MjQgMS42ODUtMTguODEzIDIuNDc0Yy0xMS40OTQuOTY0LTIzLjgyMyAxLjE1NC0zMC4wMTIuMzI2LTE0LjY1Mi0xLjk1OSA4LjAzMy03LjM0OCA4LjAzMy03LjM0OHMtOC44MTItLjU5Ni0xOS42NDQgNC42NDRDMTcuNDU1IDgxLjEzNCA2MS45NTggODMuOTU4IDg1IDc3Ljg5NnptNS42MDkgMTUuMTQ1Yy0uMTA4LjI5LS40NjguNjE2LS40NjguNjE2IDMxLjI3My04LjIyMSAxOS43NzUtMjguOTc5IDQuODIyLTIzLjcyNS0xLjMxMi40NjQtMiAxLjU0My0yIDEuNTQzcy44MjktLjMzNCAyLjY3OC0uNzJjNy41NTktMS41NzUgMTguMzg5IDEwLjExOS01LjAzMiAyMi4yODZ6TTY0LjE4MSA3MC4wNjljLTQuNjE0LTEwLjQyOS0yMC4yNi0xOS41NTMuMDA3LTM1LjU1OUM4OS40NTkgMTQuNTYzIDc2LjQ5MiAxLjU4NyA3Ni40OTIgMS41ODdjNS4yMyAyMC42MDgtMTguNDUxIDI2LjgzMy0yNi45OTkgMzkuNjY3LTUuODIxIDguNzQ1IDIuODU3IDE4LjE0MiAxNC42ODggMjguODE1em0yNy4yNzQgNTEuNzQ4Yy0xOS4xODcgMy42MTItNDIuODU0IDMuMTkxLTU2Ljg4Ny44NzQgMCAwIDIuODc0IDIuMzggMTcuNjQ2IDMuMzMxIDIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTYtMTEuNDM2LjAwMSAwLTEuNTcgNC4wMzItMTguNTc1IDcuMjMxeiIvPjwvc3ZnPg==)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=dotnet)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![Lazarus](https://img.shields.io/badge/-Lazarus%20IDE-333333?style=flat&logo=lazarus)
+### Linguagens & Plataformas
 
-### Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-333333?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=white)
+
+### Front-end & Desktop
+
+![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vuedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-333333?style=flat&logo=electron&logoColor=white)
 
 ### Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Firebird](https://img.shields.io/badge/-Firebird-333333?style=flat&logo=firebird&logoColor=FF0000)
 
-### Containers & Ambiente
-![Podman](https://img.shields.io/badge/-Podman-333333?style=flat&logo=podman)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-333333?style=flat&logo=firebird&logoColor=white)
 
-### DevOps & Versionamento
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+### Infraestrutura
 
-### API Testing
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-333333?style=flat&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=white)
 
-### Ferramentas de Desenvolvimento
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+### Versionamento & DevOps
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Experiência técnica
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=edertelhado&theme=dracula&hide_border=true)
+Meu trabalho envolve principalmente:
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=edertelhado&theme=dracula&no-frame=true&margin-w=15)
+- desenvolvimento e manutenção de APIs e sistemas back-end;
+- Java, Spring e ecossistema .NET;
+- modelagem, consultas e manutenção de bancos relacionais;
+- desenvolvimento de aplicações web e desktop;
+- execução de aplicações em Linux e ambientes containerizados;
+- integração entre sistemas;
+- automação de build, deploy e tarefas operacionais;
+- investigação e correção de problemas em sistemas existentes.
+Prefiro soluções diretas, responsabilidades claras e tecnologias consolidadas.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edertelhado&theme=dracula&hide_border=true)
+Não há necessidade de introduzir cinco camadas, três padrões e um broker para salvar um CRUD.
 
 ---
 
-## 🌐 Onde me encontrar
+## Projetos
+
+Alguns projetos públicos, bibliotecas e experimentos estão disponíveis neste GitHub.
+
+Alguns dos principais:
+
+ - [Footing Framework](https://github.com/edertelhado/Footing.Framework)
+ - [Asterisk em Docker](https://github.com/edertelhado/asterisk-docker)
+
+---
+
+## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/etelhado/)](https://www.linkedin.com/in/etelhado/)
 [![Email](https://img.shields.io/badge/-eder.telhado@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edertelhado@outlook.com.br)](mailto:edertelhado@outlook.com.br)
