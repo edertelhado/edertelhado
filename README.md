@@ -53,12 +53,11 @@ Desenvolvedor de software com foco em back-end, explorando novas tecnologias e c
 
 ## 📊 Estatísticas do GitHub
 
-&lt;a href="https://github.com/anuraghazra/github-readme-stats"&gt;
-  &lt;img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=edertelhado&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" /&gt;
-&lt;/a&gt;
-&lt;a href="https://github.com/anuraghazra/github-readme-stats"&gt;
-  &lt;img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edertelhado&layout=compact&langs_count=8&theme=dracula&show_icons=true" /&gt;
-&lt;/a&gt;
+![GitHub Streak](https://streak-stats.demolab.com/?user=edertelhado&theme=dracula&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=edertelhado&theme=dracula&no-frame=true&margin-w=15)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edertelhado&theme=dracula&hide_border=true)
 
 ---
 
